@@ -38,6 +38,6 @@ var friends = [ {
     "name" : "D.P.",
     "photo" : "http://s3.foxmovies.com/foxmovies/production/films/103/images/featured_content/111-front.jpg",
     "scores" : [1,3,3,1,2,4,4,1,1,1]
-},
+}];
     
     module.exports = friends;
